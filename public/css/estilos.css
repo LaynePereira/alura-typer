@@ -6,7 +6,13 @@
 
 .frase {
     font-size: 20px;
-    text-align: left;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    width: 100%;
+    right: 100%;
+    
 }
 
 .campo-desativado {
@@ -23,4 +29,20 @@
 
 .borda-vermelha {
     border: 3px solid red;
+}
+
+body{
+    background-color: #b5e1ec;
+    overflow: scroll;
+}
+
+h1 {
+    background-color: #ec1111;
+    border: rgb(15, 14, 14);
+    border-radius: 40px;
+    
+}
+
+.placar {
+    display: none;
 }
