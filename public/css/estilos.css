@@ -57,5 +57,9 @@ h1 {
 }
 
 #frase-id {
-    width: 50px;
+    width: 40px;
+}
+
+#botao-sync{
+    float: right;
 }

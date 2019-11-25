@@ -54,3 +54,10 @@ function scrollPlacar() {
             scrollTop: posicaoPlacar+"xp"
         }, 1000);
 }
+
+
+$("#botao-sync").click(sincronizaPlacar);
+
+function sincronizaPlacar(){
+
+}
